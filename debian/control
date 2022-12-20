@@ -1,0 +1,12 @@
+Source: ros-noetic-schunk-svh-library
+Section: misc
+Priority: optional
+Maintainer: Stefan Scherzinger <scherzin@fzi.de>
+Build-Depends: debhelper (>= 9.0.0), cmake, libboost-all-dev, libboost-all-dev <!nocheck>
+Homepage: http://wiki.ros.org/schunk_svh_library
+Standards-Version: 3.9.2
+
+Package: ros-noetic-schunk-svh-library
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-catkin
+Description: Standalone C++ library for accessing the Schunk five finger hand.
