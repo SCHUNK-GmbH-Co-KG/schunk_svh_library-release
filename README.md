@@ -1,3 +1,26 @@
+## schunk_svh_library (noetic) - 1.0.1-4
+
+The packages in the `schunk_svh_library` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic schunk_svh_library --edit` on `Wed, 21 Dec 2022 10:26:32 -0000`
+
+The `schunk_svh_library` package was released.
+
+Version of package(s) in repository `schunk_svh_library`:
+
+- upstream repository: https://github.com/fzi-forschungszentrum-informatik/schunk_svh_library.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.0.1-3`
+- new version: `1.0.1-4`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## schunk_svh_library (melodic) - 1.0.1-2
 
 The packages in the `schunk_svh_library` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic schunk_svh_library --edit` on `Wed, 21 Dec 2022 10:17:29 -0000`
