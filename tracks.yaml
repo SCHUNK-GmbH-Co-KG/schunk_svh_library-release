@@ -75,7 +75,7 @@ tracks:
     release_tag: :{version}
     ros_distro: melodic
     vcs_type: git
-    vcs_uri: git@github.com:fzi-forschungszentrum-informatik/schunk_svh_library.git
+    vcs_uri: https://github.com/fzi-forschungszentrum-informatik/schunk_svh_library.git
     version: :{auto}
   noetic:
     actions:
